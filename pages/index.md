@@ -4,10 +4,8 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
-  
+  Welcome to European Travels, a website that contains all the information you need
+  to plan the perfect European trip. Below you will find links that will show you
+  the most popular as well as the most beautiful destinations Europe has to offer (sorted by country).
+
 ---

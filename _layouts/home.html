@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+<h2>European Travels</h2>
 
   {% include page-intro.html %}
 
@@ -10,10 +10,10 @@ layout: default
 
   <section>
 
-    <h3>Recent posts from the blog</h3>
+    <h3>Travel Destinations</h3>
 
     <ul>
-      {% for post in site.posts limit:3 %}
+      {% for post in site.posts limit:5 %}
         <li>
           <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
